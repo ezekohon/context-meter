@@ -1,1 +1,6 @@
-{ "name": "context-meter", "version": "0.1.0", "description": "Pins context window fill, tokens, cost and rate limits under the prompt" }
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Pins context window fill, tokens, cost and rate limits above the prompt",
+  "types": "./types/index.d.ts"
+}
