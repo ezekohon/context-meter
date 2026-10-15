@@ -1,0 +1,7 @@
+{
+  "name": "context-meter",
+  "owner": { "name": "ezekohon" },
+  "plugins": [
+    { "name": "context-meter", "source": "./", "description": "Pins context window fill, tokens, cost and rate limits under the prompt" }
+  ]
+}
